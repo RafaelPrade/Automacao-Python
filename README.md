@@ -7,13 +7,13 @@ Atentar à pequenas variações do código que possa ocorrer em diferentes taman
 
 SOBRE AS BIBLIOTECAS
 
-# Pyautogui -> para operações com mouse e teclado
+- Pyautogui -> para operações com mouse e teclado
     # pyautogui.click -> para clicar
     # pyautogui.write -> para escrever
     # pyautogui.press -> para pressionar uma tecla
     # pyautogui.hotkey -> para usar atalho no teclado
-# Time -> para adicionar tempo do código
-# Pandas -> para criar e visualizar uma tabela com a base de dados
+- Time -> para adicionar tempo do código
+- Pandas -> para criar e visualizar uma tabela com a base de dados
 
 
 INSTRUÇÕES FINAIS
