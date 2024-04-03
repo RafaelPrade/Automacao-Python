@@ -1,8 +1,8 @@
 AUTOMATIZAÇÃO DE CADASTRO DE PRODUTOS
 
-Código Python para cadastro automático de mais de 300 produtos com apenas 1 clique no código.
-Pode ser utilizado em todas as tarefas diárias que queira automatizar e melhorar sua produtividade.
-Atentar à pequenas variações do código que possa ocorrer em diferentes tamanhos de telas (monitores/notebooks) e local de disposição dos arquivos.
+- Código Python para cadastro automático de mais de 300 produtos com apenas 1 clique no código.
+- Pode ser utilizado em todas as tarefas diárias que queira automatizar e melhorar sua produtividade.
+- Atentar à pequenas variações do código que possa ocorrer em diferentes tamanhos de telas (monitores/notebooks) e local de disposição dos arquivos.
 
 
 SOBRE AS BIBLIOTECAS
